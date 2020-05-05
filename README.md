@@ -487,7 +487,7 @@ plt.show()
 ```
 
 
-![png](visualizations/WC_Man.png)
+![png](visualizations/Manhattan_WC.PNG)
 
 
 
