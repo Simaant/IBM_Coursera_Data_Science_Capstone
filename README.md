@@ -596,7 +596,7 @@ plt.show()
 ```
 
 
-![png](visualizations/WC_Brok.png)
+![png](visualizations/Brooklyn_WC.PNG)
 
 
 
@@ -702,7 +702,7 @@ plt.show()
 ```
 
 
-![png](visualizations/WC_Bronx.png)
+![png](visualizations/Bronx_WC.PNG)
 
 
 
@@ -808,7 +808,7 @@ plt.show()
 ```
 
 
-![png](visualizations/WC_Stat_Is.png)
+![png](visualizations/StatenIsland_WC.PNG)
 
 
 
@@ -5956,7 +5956,7 @@ for lat, lng, borough, neighborhood in zip(neighborhoods['Latitude'], neighborho
 map_newyork
 ```
 
-![png](visualizations/NYC.png)
+![png](visualizations/NewYork_Map.PNG)
 ```python
 CLIENT_ID = 'JIA5BTQ3NTZCVG2L30RUSA4PIZ1GN5YAVWA2ZJF352ZEOKWL' # your Foursquare ID
 CLIENT_SECRET = 'GROWMUMSLS4WSUPAQX1SAMFZFUQPL3YHGG0UYX4IB1Z13SLA' # your Foursquare Secret
@@ -6084,7 +6084,7 @@ for lat, lng, label in zip(bronx_data['Latitude'], bronx_data['Longitude'], bron
 map_bronx
 ```
 
-![png](visualizations/bronx.png)
+![png](visualizations/Bronx_Map.PNG)
 
 
 
@@ -18370,7 +18370,7 @@ map_clusters
 
 
 
-![png](visualizations/clustering_bronx.png)
+![png](visualizations/Clusters_Map.PNG)
 
 
 
